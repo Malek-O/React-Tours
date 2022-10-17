@@ -8,5 +8,5 @@ Concepts used is props and callback functions
 You preview the project by opening it in VS code
 Then open terminal tab and write 
 
-$ cd .\tour
+$ cd .\tour      
 $ yarn start 
